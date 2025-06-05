@@ -3,9 +3,10 @@ body{
 }
 h1{
     text-align: center;
+    color: aliceblue;
 }
 img{
-    height: 200px;
+    height: 200 px;
     width: 150 px;
 }
 .livremercado{
