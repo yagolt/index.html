@@ -5,10 +5,13 @@ h1{
     text-align: center;
     color: aliceblue;
 }
+h3{
+    color: aliceblue;
+}
 img{
     height: 200 px;
     width: 150 px;
 }
 .livremercado{
-    border-radius: 20px;
+    border-radius: 20 px;
 }
