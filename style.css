@@ -11,7 +11,7 @@ h4{
 .johndeere{
     height: 300px;
     width: 300px;
-    float: none;
+    float: inline-end;
 
 }
 .livremercado{
