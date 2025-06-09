@@ -11,20 +11,22 @@ h4{
 .johndeere{
     height: 300px;
     width: 300px;
-    float: inherit;
+    text-align: end;
+
 
 }
 .livremercado{
     height: 200px;
     width: 200px;
     border-radius: 20px;
-    float: inherit;
+    text-align: end;
 
 }
 .SC{
     height: 200px;
     width: 200px;
     border-radius: 20px;
-    float: inherit;
+    text-align: end;
+
     
 }
