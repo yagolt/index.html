@@ -2,6 +2,7 @@ body{
     background-color:rgb(23, 91, 23);
 }
 h1{
+    text-size-adjust: 40px;
     text-align: center;
     color: aliceblue;
 }
