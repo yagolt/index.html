@@ -8,26 +8,24 @@ h1{
 }
 h2{
     color: aliceblue;
-    text-align: ;
-    text-size-adjust: 100px;
-}
-.johndeere{
-    height: 300px;
-    width: 300px;
 
+.johndeere{
+    height: 198.5px;
+    width: 132px;
+    border-radius: 50px;
 
 }
 .livremercado{
-    height: 200px;
-    width: 200px;
+    height: 178.29px;
+    width: 133px;
     border-radius: 20px;
     
 
 }
 .SC{
-    height: 200px;
-    width: 200px;
-    border-radius: 20px;
+    height: 176px;
+    width: 176px;
+    border-radius: 50px;
     
 
     
