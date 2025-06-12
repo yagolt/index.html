@@ -7,7 +7,7 @@ h1{
 }
 h2{
     color: aliceblue;
-    text-align: initial;
+    text-align: center;
     text-size-adjust: 100px;
 }
 .johndeere{
@@ -31,4 +31,11 @@ h2{
 }
 .conteudo{
     display: flex;
+}
+.sc{
+    display: flex;
+}
+.mercado{
+    display: flex;
+
 }
