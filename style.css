@@ -2,7 +2,6 @@ body{
     background-color:rgb(23, 91, 23);
 }
 h1{
-    text-size-adjust: 100%;
     text-align: center;
     color: aliceblue;
 }
@@ -28,7 +27,8 @@ h2{
     height: 150px;
     width: 150px;
     border-radius: 20px;
-    
 
-    
+}
+.conteudo{
+    display: flex;
 }
