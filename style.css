@@ -2,25 +2,33 @@ body{
     background-color:rgb(23, 91, 23);
 }
 h1{
-    text-size-adjust: 40px;
+    text-size-adjust: 200px;
     text-align: center;
     color: aliceblue;
 }
 h2{
     color: aliceblue;
-
+    text-align: initial;
+    text-size-adjust: 100px;
+}
 .johndeere{
-    height: 180px;
-    width: 180px;
-    border-radius: 20px;
+    height: 300px;
+    width: 300px;
+
+
 }
 .livremercado{
-    height: 178px;
-    width: 178px;
+    height: 200px;
+    width: 200px;
     border-radius: 20px;
+    
+
 }
 .SC{
-    height: 178px;
-    width: 178px;
-    border-radius:20px;
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    
+
+    
 }
