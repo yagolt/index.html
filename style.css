@@ -2,7 +2,7 @@ body{
     background-color:rgb(23, 91, 23);
 }
 h1{
-    text-size-adjust: 200px;
+    text-size-adjust: 100%;
     text-align: center;
     color: aliceblue;
 }
