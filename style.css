@@ -1,6 +1,10 @@
 body{
     background-color:rgb(23, 91, 23);
 }
+h1{
+    text-align: center;
+    color: aliceblue;
+}
 .johndeere{
     height: 200px;
     width: 200px;
@@ -20,7 +24,10 @@ body{
     border-radius: 20px;
 
 }
-
+.conteudo{
+    display: flex;
+    text-align: center;
+}
 .sc{
     display: flex;
     text-align: center;
