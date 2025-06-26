@@ -38,5 +38,6 @@ h1{
 
 }
 .config{
+    display: none;
     text-align: right;
 }
