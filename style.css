@@ -37,3 +37,7 @@ h1{
     text-align: center;
 
 }
+.config{
+    display: flex;
+    text-align: right;
+}
