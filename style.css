@@ -32,3 +32,9 @@ h1{
 table, th, td {
     border: solid 4px black;
 }
+td{
+    width: 200px;
+}
+th{
+    width: 200px;
+}
