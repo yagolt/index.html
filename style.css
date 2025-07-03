@@ -30,6 +30,7 @@ h1{
 }
 .config{
     align-items: right;
+    padding-bottom: 100px;
 }
 table{
     width: 100%;
