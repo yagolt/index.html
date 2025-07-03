@@ -29,6 +29,9 @@ h1{
 .config{
     align-items: right;
 }
+table{
+    width: 100%;
+}
 table, th, td {
     border: solid 4px black;
 }
